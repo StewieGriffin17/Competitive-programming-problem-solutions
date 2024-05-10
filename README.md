@@ -29,6 +29,6 @@ If you'd like to contribute to this repository, you're welcome to do so! You can
 - To contribute, simply fork this repository, make your changes, and submit a pull request. Please ensure that your contributions adhere to the repository's coding standards and include appropriate documentation where necessary.
 
 # Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to me via email or GitHub Issues.
+If you have any questions, suggestions, or feedback, feel free to reach out to me via email, anowarul.asif@gmail.com or GitHub Issues.
 
 Happy coding!
