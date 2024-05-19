@@ -1,8 +1,13 @@
-# Codeforces Problem Solutions
-Welcome to the Codeforces Problem Solutions repository! This repository contains my solutions to various Codeforces problems, implemented in different programming languages including C, C++, Java, and Python.
+# Competitive-programming-problem-solutions
+Welcome to the Competitive-programming-problem-solutions repository! This repository contains my solutions to various competitive programming problems from popular platforms such as HackerRank, LeetCode, Codeforces, and Beecrowd, implemented in different programming languages including C, C++, Java, and Python.
 
 # Overview
-Codeforces is a popular platform for competitive programming, offering a wide range of algorithmic and mathematical problems to solve. In this repository, you'll find my solutions to these problems categorized by the programming language used.
+Competitive programming is a sport where coders compete to solve algorithmic problems within a specified time frame. This repository serves as a comprehensive collection of my solutions to such problems, sourced from renowned competitive programming platforms like HackerRank, LeetCode, Codeforces, and Beecrowd.
+
+Each solution is meticulously crafted and optimized to meet the problem constraints and requirements. The repository not only showcases my problem-solving skills but also serves as a valuable resource for anyone looking to improve their coding proficiency, learn new algorithms, or prepare for coding interviews.
+
+The solutions are categorized by the souce website where the problem is taken from, making it easy to navigate and find specific solutions. Whether you are a beginner looking to understand basic concepts or an experienced coder aiming to refine your skills, you'll find useful examples and insights here.
+
 
 # Languages
 The solutions in this repository are written in the following programming languages:
@@ -11,7 +16,7 @@ The solutions in this repository are written in the following programming langua
 - Java
 - Python
 
-#Problem Categories
+# Problem Categories
 The problems in this repository cover a wide range of topics and categories, including but not limited to:
 - Data Structures
 - Algorithms
